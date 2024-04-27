@@ -8,4 +8,4 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/W-i-z-z-k-i-d">Krishna</a> to make it public
+Project created by <a href="https://github.com/K-r-i-s-h-n-a-7">Krishna</a> to make it public
